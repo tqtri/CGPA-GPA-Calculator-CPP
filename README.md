@@ -57,4 +57,4 @@ After the calculations are done, the user is returned to the menu to select anot
 This is a simple program, so modifications and improvements can be made to further the program!
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/tqtri/CGPA-GPA-Calculator-CPP/blob/main/LICENSE) file for details.
