@@ -22,5 +22,11 @@ cd CGPA-GPA-Calculator-CPP
 ```
 3. Compile the program
 ```sh
-g++ 
+g++ CGPA_GPA_Calc.cpp -o CGPA_GPA_Calc.cpp
 ```
+4. Run the program
+```sh
+./CGPA_GPA_Calc
+```
+5. Follow the instructions in the console and enter prompts as required.
+6. The program will calculate CGPA, GPA or exit according to your choice.
